@@ -1,0 +1,72 @@
+Java mein Data Types (Hinglish mein vyakhya)
+
+1. Primitive Data Types:
+
+   byte:
+   - 8-bit poornaank
+   - Range: -128 se 127
+   - Chote poornaakon ke liye upyogi
+
+   short:
+   - 16-bit poornaank
+   - Range: -32,768 se 32,767
+   - Byte se bade, lekin int se chote poornaakon ke liye
+
+   int:
+   - 32-bit poornaank
+   - Range: -2^31 se 2^31-1
+   - Samanya poornaakon ke liye sabse adhik upyog kiya jaane wala
+
+   long:
+   - 64-bit poornaank
+   - Range: -2^63 se 2^63-1
+   - Bahut bade poornaakon ke liye
+
+   float:
+   - 32-bit dashamlav sankhya
+   - Ek-parishuddhata waale dashamlav ankon ke liye
+   - 'f' ya 'F' pratyay ka upyog karein (jaise 3.14f)
+
+   double:
+   - 64-bit dashamlav sankhya
+   - Do-parishuddhata waale dashamlav ankon ke liye
+   - Default dashamlav prakar
+
+   boolean:
+   - Kewal do maan: true ya false
+   - Sharton aur logic ke liye upyog kiya jaata hai
+
+   char:
+   - Ek 16-bit Unicode varn
+   - Range: '\u0000' (0) se '\uffff' (65,535)
+
+2. Reference Data Types:
+
+   String:
+   - Varnon ki shrinkhalaa
+   - Technically ek class, lekin vishesh vyavahaar ke saath
+
+   Arrays:
+   - Samaan prakar ke tattvon ka nishchit-aakaar ka sangrah
+   - Ek ya adhik dimensions mein ho sakte hain
+
+   Classes:
+   - Upyogkarta-paribhashit data prakar
+   - Objects ke liye templates
+
+   Interfaces:
+   - Vidhiyon ka amurt sangrah
+   - Classes dwara laagu kiye jaate hain
+
+Mahatvapurn Bindhu:
+- Primitive types seedhe memory mein sangrihit hote hain aur adhik kushal hote hain.
+- Reference types memory mein objects ke pate sangrihit karte hain.
+- String class Java mein vishesh hai aur aksar primitive type ki tarah vyavahaar karti hai.
+- Java mein Arrays objects hain, bale hi ve primitive types ko dhaaran karte hon.
+
+Upyog ke Udaharan:
+int age = 25;
+double height = 5.9;
+boolean isStudent = true;
+String name = "Rahul";
+int[] marks = {85, 90, 78, 92, 88};
