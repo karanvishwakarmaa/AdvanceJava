@@ -1,4 +1,4 @@
-package JUNIT.BasicJava.literals;
+package CoreJava.literals;
 
 public class Ex04 {
     public static void main(String[] args) {

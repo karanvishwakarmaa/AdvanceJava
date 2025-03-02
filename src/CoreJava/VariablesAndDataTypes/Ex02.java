@@ -1,4 +1,4 @@
-package BasicJava.VariablesAndDataTypes;
+package CoreJava.VariablesAndDataTypes;
 
 public class Ex02 {
 //    Certainly! I'll explain the data types in Java and provide examples of how to use them. In Java, there are two main categories of data types: primitive data types and reference data types.

@@ -1,4 +1,4 @@
-package JUNIT.BasicJava.Assignment_Operators;
+package CoreJava.Assignment_Operators;
 
 public class Ex10 {
     public static void main(String[] args) {

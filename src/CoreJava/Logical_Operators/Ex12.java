@@ -1,4 +1,4 @@
-package JUNIT.BasicJava.Logical_Operators;
+package CoreJava.Logical_Operators;
 
 public class Ex12 {
     public static void main(String[] args) {

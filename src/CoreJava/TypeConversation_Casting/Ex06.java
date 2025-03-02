@@ -1,4 +1,4 @@
-package JUNIT.BasicJava.TypeConversation_Casting;
+package CoreJava.TypeConversation_Casting;
 
 public class Ex06 {
     public static void main(String[] args) {

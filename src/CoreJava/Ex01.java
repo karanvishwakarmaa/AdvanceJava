@@ -1,4 +1,4 @@
-package BasicJava;
+package CoreJava;
 
 public class Ex01 {
 

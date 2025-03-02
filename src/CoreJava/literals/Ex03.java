@@ -1,4 +1,4 @@
-package BasicJava.literals;
+package CoreJava.literals;
 
 public class Ex03 {
 
