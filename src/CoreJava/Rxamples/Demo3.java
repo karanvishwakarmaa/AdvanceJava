@@ -1,4 +1,4 @@
-package CoreJava;
+package CoreJava.Rxamples;
 
 class calc1 {
     public int add(int n1, int n2, int n3){

@@ -1,4 +1,4 @@
-package CoreJava;
+package CoreJava.Rxamples;
 
 class Calculator {
     public static int add(int a, int b) { //methods...

@@ -1,4 +1,4 @@
-package CoreJava;
+package CoreJava.Rxamples;
 
 class Student{
     public String name(String name){

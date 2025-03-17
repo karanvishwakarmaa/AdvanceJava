@@ -1,4 +1,4 @@
-package CoreJava;
+package CoreJava.Rxamples;
 
 class abc{
     public void playMusic(){

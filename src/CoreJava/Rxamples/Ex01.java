@@ -1,4 +1,4 @@
-package CoreJava;
+package CoreJava.Rxamples;
 
 public class Ex01 {
 
